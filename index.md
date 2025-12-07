@@ -2,5 +2,5 @@
 
 ![banner](/objects/photos/banner.png)
 
-## Objects
+## Entity Relationships 
 
